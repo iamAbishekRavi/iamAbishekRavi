@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/krabishek291" target="blank"><img src="https://img.shields.io/twitter/follow/krabishek291?logo=twitter&style=for-the-badge" alt="krabishek291" /></a> </p>
 
-- 🔭 I’m currently working on **Block chain dapps**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Web3 development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Nodejs and Javascript**
 
 - 📫 How to reach me **abishek290802@gmail.com**
 
-- ⚡ Fun fact **I am iron man**
+- ⚡ Fun fact **Iam Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
