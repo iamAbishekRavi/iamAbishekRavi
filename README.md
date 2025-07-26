@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/X-@Abishek__Ravi-000000?style=flat&logo=twitter&logoColor=white" alt="X/Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/_.abixshek/_" target="_blank">
+  <a href="https://instagram.com/_.abixshek._/_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-_.abixshek_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
