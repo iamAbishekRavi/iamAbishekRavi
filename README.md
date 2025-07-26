@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/X-@Abishek__Ravi-000000?style=flat&logo=twitter&logoColor=white" alt="X/Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/_.abixshek._/_" target="_blank">
+  <a href="https://instagram.com/_.abixshek/_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-_.abixshek_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -24,6 +24,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
 </p>
 
